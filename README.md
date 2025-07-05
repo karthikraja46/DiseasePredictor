@@ -13,11 +13,11 @@ This machine learning system predicts diseases based on user-reported symptoms. 
 
 ## **System Design**
 
-![alt text](deepseek_mermaid_20250705_793be0-1.png)
+![alt text](/Users/karthikrajanichenametla/DiseasePredictor/System_image.png)
 
 ## **Workflow Sequence**
 
-![alt text](<deepseek_mermaid_20250705_92ffd4 (1).png>)
+![alt text](/Users/karthikrajanichenametla/DiseasePredictor/System_image_3.png)
 
 ---
 
